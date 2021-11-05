@@ -14,10 +14,10 @@ In order to achieve that objective, we extract first a list of the funds with th
 - BEST STOCKS.py: code that executes the different web scraping procedures and generates the final dataset with the selected stocks.
 - ......
 
-## The final dataset can be found here:
+## The final dataset can be found here
 .......
 
-## Libraries needed in order to run the code:
+## Libraries needed in order to run the code
 - requests
 - BeautifulSoup
 - pandas
