@@ -3,7 +3,7 @@
 ## Description
 This project was created as part of the course "Tipologia i cicle de vida de les dades" (Master's Degree in Data Science - Universitat Oberta de Catalunya).
 The objective is to figure out which are the bests stocks according to the best fund managers. 
-In order to achieve that objective, we extracted first a list of the funds with the highest 10-year returns. Then, we selected the ones that had a higher return than the NASDAQ and collected a list of the main stocks they invest in. We oredered the stocks according to the amount of appearances and collected some of the main parameters related to each of them.  Finally, we generate a dataframe with the information.
+In order to achieve that objective, we extracted first a list of the funds with the highest 10-year returns. Then, we selected the ones that had a higher return than the NASDAQ and collected a list of the main stocks they invest in. We oredered the stocks according to the amount of appearances and collected some of the main parameters related to each of them.  Finally, we generated a dataframe with the information.
 
 ## Team members
 - Jaume Antolí
