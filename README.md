@@ -10,12 +10,13 @@ In order to achieve that objective, we extracted first a list of the funds with 
 - Maria Dupla
 
 ## Files included in the repository
-- Memoria_PRA1_jantolip_mduplag.pdf: (Catalan) Details about the process followed and the content of the project.
+- Memoria_PRA1_jantolip_mduplag.pdf: Details about the process followed and the content of the project.
 - BEST STOCKS.py: code that executes the different web scraping procedures and generates the final dataset with the selected stocks.
-- ......
+- LICENSE: document with the license.
+- best_stocks.csv: dataset with the selected stocks.
 
 ## The final dataset can be found here
-.......
+https://doi.org/10.5281/zenodo.5648614
 
 ## Libraries needed in order to run the code
 - requests
